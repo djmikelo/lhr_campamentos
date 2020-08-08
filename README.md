@@ -1,21 +1,21 @@
 
-RedM Camping, an easy camping script for RP. 
+# rpf_menupersonal 1.1
 
-=================================================
+1. Requirements for fully work
 
-Installation :
+    RedEM:RP
+    
+    Redemrp_skin
+    
+    Redemrp_clothing
+    
+    Redemrp_clotheshop
+    
+    elrp_coachdealer
+    
+    Add ensure rpf_menupersonal in your server.cfg
+    Enjoy!
+ 
+# Credits
 
-1 - Clone to resources file
-
-2 - ensure lhr_campamentos
-
-=================================================
-
-Usage :
-
-Open camp menu with Page Down (Av. Pag)
-
-=================================================
-
-Credits: 
-to Gandalfor (https://github.com/Gandalfor) for his 1st version and mr_lupo (https://github.com/mrlupo) for menu editing
+https://github.com/cedricalpatch
